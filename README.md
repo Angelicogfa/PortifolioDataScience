@@ -4,8 +4,8 @@ Este projeto tem como finalidade montar um portifólio para data science.
 
 ### Projetos
 
-1. Classificação
-  1. Iris
-2. Regreas de Associação
+* Classificação
+  * Iris
+* Regreas de Associação
    
    
